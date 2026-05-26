@@ -43,4 +43,4 @@ SCT_DS_2/
 - Extracting insights from datasets
 
 ## Author
-Yashwanth
+Yashwanth.J
